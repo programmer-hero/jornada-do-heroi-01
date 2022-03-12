@@ -33,12 +33,12 @@ Lembre-se... ao final de uma jornada, sempre se inicia uma nova!
 
 ### [Capítulo 01](https://github.com/programmer-hero/jornada-do-heroi-01/tree/main/capitulo-01)
 
-* [O que é Docker](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/01.%20O%20que%20%C3%A9%20o%20Docker.md)
-* [Docker vs Virtualização](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/02.%20Docker%20vs%20Virtualiza%C3%A7%C3%A3o.md)
-* [Instalação do Docker](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/03.%20Instala%C3%A7%C3%A3o%20do%20Docker.md)
-* [Comandos básicos do Docker](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/04.%20Comandos%20b%C3%A1sicos%20do%20Docker.md)
-* [Docker Compose](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/05.%20Docker-Compose.md)
-* [Configurando uma imagem do Banco de dados MySql](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/06.%20Configurando%20uma%20imagem%20do%20Banco%20de%20dados%20MySql.md)
+1. [O que é Docker](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/01.%20O%20que%20%C3%A9%20o%20Docker.md)
+2. [Docker vs Virtualização](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/02.%20Docker%20vs%20Virtualiza%C3%A7%C3%A3o.md)
+3. [Instalação do Docker](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/03.%20Instala%C3%A7%C3%A3o%20do%20Docker.md)
+4. [Comandos básicos do Docker](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/04.%20Comandos%20b%C3%A1sicos%20do%20Docker.md)
+5. [Docker Compose](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/05.%20Docker-Compose.md)
+6. [Configurando uma imagem do Banco de dados MySql](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/06.%20Configurando%20uma%20imagem%20do%20Banco%20de%20dados%20MySql.md)
 
 ### Capítulo 02
 ### Capítulo 03
