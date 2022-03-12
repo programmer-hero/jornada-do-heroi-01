@@ -41,6 +41,12 @@ Lembre-se... ao final de uma jornada, sempre se inicia uma nova!
 6. [Configurando uma imagem do Banco de dados MySql](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/06.%20Configurando%20uma%20imagem%20do%20Banco%20de%20dados%20MySql.md)
 
 ### Capítulo 02
+1. [Backend](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-02/01.%20backend.md)
+2. [EditorConfig](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-02/02.%20EditorConfig.md)
+3. [ESLint](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-02/03.%20ESLint.md)
+4. [Nodemon e Sucrase](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-02/04.%20Nodemon%20e%20Sucrase.md)
+5. [Estruturando o projeto](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-02/05.%20Estruturando%20o%20projeto.md)
+6. [Configurando e testando o Sequelize](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-02/06.%20Configurando%20e%20testando%20o%20Sequelize.md)
 ### Capítulo 03
 
 ### Capítulo 04
