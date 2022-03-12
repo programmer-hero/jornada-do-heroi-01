@@ -62,6 +62,12 @@ Lembre-se... ao final de uma jornada, sempre se inicia uma nova!
 4. [Variáveis no Rest Client](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-04/04.%20Vari%C3%A1veis%20no%20Rest%20Client.md)
 5. [Salvar as fotos no banco de dados](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-04/05.%20Salvar%20as%20fotos%20no%20banco%20de%20dados.md)
 6. [Exibir as fotos dos alunos](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-04/06.%20Exibir%20as%20fotos%20dos%20alunos.md)
+
 ### Capítulo 05
+1. [Preparação para o deploy](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-05/01.%20Prepara%C3%A7%C3%A3o%20para%20o%20deploy.md)
+2. [Criação do Dockefile](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-05/02.%20Cria%C3%A7%C3%A3o%20do%20Dockefile.md)
+3. [Utilizando o PM2 no ambiente de desenvolvimento](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-05/03.%20Utilizando%20o%20PM2%20no%20ambiente%20de%20desenvolvimento.md)
+
+
 
 
