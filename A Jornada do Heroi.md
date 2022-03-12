@@ -29,21 +29,21 @@ Como toda jornada, o percurso será longo, mas ao chegar ao final, você poderá
 
 Lembre-se... ao final de uma jornada, sempre se inicia uma nova! 
 
-## Docker
-1. O que é o Docker
-2. Docker vs Virtualização
-3. Instalação do Docker
-4. Comandos básicos do Docker
-5. Docker-Compose
-6. Configurando uma imagem do Banco de dados MySql
-
 ## Backend
 
-1. Criar uma pasta chamada **backend/**
-2. Instalar e configurar o **EditorConfig** no VSCode
-3. Instalar e configurar o **ESLint**
-4. **Nodemon** e **Sucrase**
-5. Estruturando o projeto
-6. Configurando e testando o **Sequelize**
+### [Capítulo 01](https://github.com/programmer-hero/jornada-do-heroi-01/tree/main/capitulo-01)
+
+* [O que é Docker](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/01.%20O%20que%20%C3%A9%20o%20Docker.md)
+* [Docker vs Virtualização](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/02.%20Docker%20vs%20Virtualiza%C3%A7%C3%A3o.md)
+* [Instalação do Docker](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/03.%20Instala%C3%A7%C3%A3o%20do%20Docker.md)
+* [Comandos básicos do Docker](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/04.%20Comandos%20b%C3%A1sicos%20do%20Docker.md)
+* [Docker Compose](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/05.%20Docker-Compose.md)
+* [Configurando uma imagem do Banco de dados MySql](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-01/06.%20Configurando%20uma%20imagem%20do%20Banco%20de%20dados%20MySql.md)
+
+### Capítulo 02
+### Capítulo 03
+
+### Capítulo 04
+### Capítulo 05
 
 
