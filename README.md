@@ -56,6 +56,12 @@ Lembre-se... ao final de uma jornada, sempre se inicia uma nova!
 6. [Ajustes de segurança nos endpoints de usuários](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-03/06.%20Ajustes%20de%20seguran%C3%A7a%20nos%20endpoints%20de%20usu%C3%A1rios.md)
 
 ### Capítulo 04
+1. [Rotas de alunos](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-04/01.%20Rotas%20de%20alunos.md)
+2. [CRUD de alunos](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-04/02.%20CRUD%20de%20alunos.md)
+3. [Upload de arquivos](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-04/03.%20Upload%20de%20arquivos.md)
+4. [Variáveis no Rest Client](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-04/04.%20Vari%C3%A1veis%20no%20Rest%20Client.md)
+5. [Salvar as fotos no banco de dados](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-04/05.%20Salvar%20as%20fotos%20no%20banco%20de%20dados.md)
+6. [Exibir as fotos dos alunos](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-04/06.%20Exibir%20as%20fotos%20dos%20alunos.md)
 ### Capítulo 05
 
 
