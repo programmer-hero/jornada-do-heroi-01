@@ -68,7 +68,7 @@ Lembre-se... ao final de uma jornada, sempre se inicia uma nova!
 2. [Criação do Dockefile](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-05/02.%20Cria%C3%A7%C3%A3o%20do%20Dockefile.md)
 3. [Utilizando o PM2 no ambiente de desenvolvimento](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-05/03.%20Utilizando%20o%20PM2%20no%20ambiente%20de%20desenvolvimento.md)
 
-### [Capítulo 06]
+### [Capítulo 06](https://github.com/programmer-hero/jornada-do-heroi-01/tree/main/capitulo-06)
 1. [Frontend](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-06/01.%20frontend.md)
 2. [ESLint e Prettier](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-06/02.%20ESLint%20e%20Prettier.md)
 3. [Limpando o projeto inicial](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-06/03.%20Limpando%20o%20projeto%20inicial.md)
@@ -80,7 +80,7 @@ Lembre-se... ao final de uma jornada, sempre se inicia uma nova!
 9. [React Toastfy](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-06/09.%20React%20Toastfy.md)
 10. [Configurando o Axios](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-06/10.%20Configurando%20o%20Axios.md)
 
-### [Capítulo 07]
+### [Capítulo 07](https://github.com/programmer-hero/jornada-do-heroi-01/tree/main/capitulo-07)
 1. [Gerenciamento de Estados com Redux](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-07/01.%20Gerenciamento%20de%20estados%20com%20Redux.md)
 2. [Redux e React](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-07/02.%20Redux%20e%20React.md)
 3. [Redux - Instalação e configuração](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-07/03.%20Redux%20-%20Instala%C3%A7%C3%A3o%20e%20configura%C3%A7%C3%A3o.md)
@@ -88,7 +88,7 @@ Lembre-se... ao final de uma jornada, sempre se inicia uma nova!
 5. [Redux Saga](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-07/05.%20Redux%20Saga.md)
 6. [Redux Persist](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-07/06.%20Redux%20Persist.md)
 
-### [Capítulo 08]
+### [Capítulo 08](https://github.com/programmer-hero/jornada-do-heroi-01/tree/main/capitulo-08)
 1. [Criação do projeto base da aplicação](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/01.%20Cria%C3%A7%C3%A3o%20do%20projeto%20base%20da%20aplica%C3%A7%C3%A3o.md)
 2. [Páginas e rotas da aplicação](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/02.%20P%C3%A1ginas%20e%20rotas%20da%20aplica%C3%A7%C3%A3o.md)
 3. [Buscando Alunos da API](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/03.%20Buscando%20alunos%20da%20API.md)
