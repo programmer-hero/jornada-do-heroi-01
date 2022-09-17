@@ -68,6 +68,32 @@ Lembre-se... ao final de uma jornada, sempre se inicia uma nova!
 2. [Criação do Dockefile](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-05/02.%20Cria%C3%A7%C3%A3o%20do%20Dockefile.md)
 3. [Utilizando o PM2 no ambiente de desenvolvimento](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-05/03.%20Utilizando%20o%20PM2%20no%20ambiente%20de%20desenvolvimento.md)
 
+### [Capítulo 06]
+1. [Frontend](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-06/01.%20frontend.md)
+2. [ESLint e Prettier](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-06/02.%20ESLint%20e%20Prettier.md)
+3. [Limpando o projeto inicial](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-06/03.%20Limpando%20o%20projeto%20inicial.md)
+4. [Styled-Components](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-06/04.%20Styled%20Components.md)
+5. [Criando o Menu da aplicação](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-06/05.%20Criando%20o%20Menu%20da%20aplica%C3%A7%C3%A3o.md)
+6. [React Router DOM](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-06/06.%20React%20Router%20DOM.md)
+7. [Router e History](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-06/07.%20Router%20e%20History.md)
+8. [Criando uma rota personalizada e privada](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-06/08.%20Criando%20uma%20rota%20personalizada%20e%20privada.md)
+9. [React Toastfy](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-06/09.%20React%20Toastfy.md)
+10. [Configurando o Axios](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-06/10.%20Configurando%20o%20Axios.md)
 
+### [Capítulo 07]
+1. [Gerenciamento de Estados com Redux](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-07/01.%20Gerenciamento%20de%20estados%20com%20Redux.md)
+2. [Redux e React](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-07/02.%20Redux%20e%20React.md)
+3. [Redux - Instalação e configuração](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-07/03.%20Redux%20-%20Instala%C3%A7%C3%A3o%20e%20configura%C3%A7%C3%A3o.md)
+4. [Separando Actions e Reducers](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-07/04.%20Separando%20Actions%20e%20Reducers.md)
+5. [Redux Saga](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-07/05.%20Redux%20Saga.md)
+6. [Redux Persist](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-07/06.%20Redux%20Persist.md)
 
-
+### [Capítulo 08]
+1. [Criação do projeto base da aplicação](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/01.%20Cria%C3%A7%C3%A3o%20do%20projeto%20base%20da%20aplica%C3%A7%C3%A3o.md)
+2. [Páginas e rotas da aplicação](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/02.%20P%C3%A1ginas%20e%20rotas%20da%20aplica%C3%A7%C3%A3o.md)
+3. [Buscando Alunos da API](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/03.%20Buscando%20alunos%20da%20API.md)
+4. [Cadastro de usuário](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/04.%20Cadastro%20de%20usuarios.md)
+5. [Página de Login (parte 01)](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/05.%20P%C3%A1gina%20de%20Login%20(parte%2001).md)
+6. [Página de Login (parte 02)](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/06.%20P%C3%A1gina%20de%20Login%20(parte%2002).md)
+7. [Componente Loading](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/07.%20Componente%20Loading.md)
+8. [Atualização para utilizar o hook useNavigate ao invés de unstable_HistoryRouter]
