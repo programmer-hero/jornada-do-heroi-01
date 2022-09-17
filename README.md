@@ -96,4 +96,4 @@ Lembre-se... ao final de uma jornada, sempre se inicia uma nova!
 5. [Página de Login (parte 01)](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/05.%20P%C3%A1gina%20de%20Login%20(parte%2001).md)
 6. [Página de Login (parte 02)](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/06.%20P%C3%A1gina%20de%20Login%20(parte%2002).md)
 7. [Componente Loading](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/07.%20Componente%20Loading.md)
-8. [Atualização para utilizar o hook useNavigate ao invés de unstable_HistoryRouter]
+8. [Atualização para utilizar o hook useNavigate ao invés de unstable_HistoryRouter](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/08.%20Atualiza%C3%A7%C3%A3o%20para%20utilizar%20o%20hook%20useNavigate%20ao%20inv%C3%A9s%20de%20unstable_HistoryRouter.md)
