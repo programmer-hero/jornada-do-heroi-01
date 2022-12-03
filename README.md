@@ -101,3 +101,6 @@ Lembre-se... ao final de uma jornada, sempre se inicia uma nova!
 10. [Manutenção de usuários - cadastro e edição (Parte 02)](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/10.%20Manuten%C3%A7%C3%A3o%20de%20usu%C3%A1rios%20-%20cadastro%20e%20edi%C3%A7%C3%A3o%20(Parte%2002).md)
 11. [Logout](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/11.%20Logout.md)
 12. [Exclusão de alunos](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/12.%20Exclus%C3%A3o%20de%20alunos.md)
+13. [Cadastro de alunos](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/13.%20Cadastro%20de%20alunos.md)
+14. [Exibindo a foto do aluno](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/14.%20Exibindo%20a%20foto%20do%20aluno.md)
+15. [Editando a foto do aluno](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/15.%20Editando%20a%20foto%20do%20aluno.md)
