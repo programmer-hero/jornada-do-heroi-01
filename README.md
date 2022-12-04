@@ -104,3 +104,7 @@ Lembre-se... ao final de uma jornada, sempre se inicia uma nova!
 13. [Cadastro de alunos](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/13.%20Cadastro%20de%20alunos.md)
 14. [Exibindo a foto do aluno](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/14.%20Exibindo%20a%20foto%20do%20aluno.md)
 15. [Editando a foto do aluno](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-08/15.%20Editando%20a%20foto%20do%20aluno.md)
+
+### [Capítulo 09](https://github.com/programmer-hero/jornada-do-heroi-01/tree/main/capitulo-09)
+01. [Preparação para o deploy](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-09/01.%20Prepara%C3%A7%C3%A3o%20apra%20o%20deploy.md)
+02. [Criação do Dockerfile](https://github.com/programmer-hero/jornada-do-heroi-01/blob/main/capitulo-09/02.%20Cria%C3%A7%C3%A3o%20do%20Dockerfile.md)
